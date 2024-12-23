@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Greedy
 |  |
 | ------- |
