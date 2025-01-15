@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
