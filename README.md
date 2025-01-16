@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/m-h-d-salih/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1970-sorting-the-sentence](https://github.com/m-h-d-salih/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/m-h-d-salih/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
