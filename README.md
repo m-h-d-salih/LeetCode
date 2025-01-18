@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/m-h-d-salih/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/m-h-d-salih/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2128-reverse-prefix-of-word](https://github.com/m-h-d-salih/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0812-rotate-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/m-h-d-salih/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
