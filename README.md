@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
