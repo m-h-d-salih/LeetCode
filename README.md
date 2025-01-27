@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1970-sorting-the-sentence](https://github.com/m-h-d-salih/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/m-h-d-salih/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/m-h-d-salih/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
