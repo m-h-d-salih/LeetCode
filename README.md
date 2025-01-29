@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/m-h-d-salih/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/m-h-d-salih/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1505-create-target-array-in-the-given-order](https://github.com/m-h-d-salih/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
