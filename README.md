@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [2886-faulty-keyboard](https://github.com/m-h-d-salih/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3533-snake-in-matrix](https://github.com/m-h-d-salih/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3636-check-balanced-string](https://github.com/m-h-d-salih/LeetCode/tree/master/3636-check-balanced-string) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/m-h-d-salih/LeetCode/tree/master/2886-faulty-keyboard) |
+| [3533-snake-in-matrix](https://github.com/m-h-d-salih/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3533-snake-in-matrix](https://github.com/m-h-d-salih/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
