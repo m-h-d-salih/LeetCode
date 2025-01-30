@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
 ## Counting
 |  |
 | ------- |
