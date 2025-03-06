@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/m-h-d-salih/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Simulation
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/m-h-d-salih/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/m-h-d-salih/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3429-special-array-i](https://github.com/m-h-d-salih/LeetCode/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
