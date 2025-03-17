@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/m-h-d-salih/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/m-h-d-salih/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1899-count-items-matching-a-rule](https://github.com/m-h-d-salih/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/m-h-d-salih/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1848-sum-of-unique-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/m-h-d-salih/LeetCode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/m-h-d-salih/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
