@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/m-h-d-salih/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/m-h-d-salih/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1965-sum-of-digits-in-base-k](https://github.com/m-h-d-salih/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2238-a-number-after-a-double-reversal](https://github.com/m-h-d-salih/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
