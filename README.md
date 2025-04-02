@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/m-h-d-salih/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/m-h-d-salih/LeetCode/tree/master/1137-height-checker) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1970-sorting-the-sentence](https://github.com/m-h-d-salih/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/m-h-d-salih/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/m-h-d-salih/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1646-kth-missing-positive-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/1677-matrix-diagonal-sum) |
