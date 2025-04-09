@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [1179-game-play-analysis-i](https://github.com/m-h-d-salih/LeetCode/tree/master/1179-game-play-analysis-i) |
 <!---LeetCode Topics End-->
