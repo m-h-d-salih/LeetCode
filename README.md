@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/m-h-d-salih/LeetCode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/m-h-d-salih/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3533-snake-in-matrix](https://github.com/m-h-d-salih/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/m-h-d-salih/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
