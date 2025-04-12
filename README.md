@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/m-h-d-salih/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2825-minimize-string-length](https://github.com/m-h-d-salih/LeetCode/tree/master/2825-minimize-string-length) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
 | [2128-reverse-prefix-of-word](https://github.com/m-h-d-salih/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/m-h-d-salih/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/m-h-d-salih/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/m-h-d-salih/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2836-neither-minimum-nor-maximum](https://github.com/m-h-d-salih/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/m-h-d-salih/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
+| [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/m-h-d-salih/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/m-h-d-salih/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/m-h-d-salih/LeetCode/tree/master/2727-number-of-senior-citizens) |
