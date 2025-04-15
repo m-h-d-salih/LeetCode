@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/m-h-d-salih/LeetCode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/m-h-d-salih/LeetCode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2238-a-number-after-a-double-reversal](https://github.com/m-h-d-salih/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/m-h-d-salih/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/m-h-d-salih/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/m-h-d-salih/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/m-h-d-salih/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/m-h-d-salih/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/m-h-d-salih/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2551-apply-operations-to-an-array) |
