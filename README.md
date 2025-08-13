@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/m-h-d-salih/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/m-h-d-salih/LeetCode/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/m-h-d-salih/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -307,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
