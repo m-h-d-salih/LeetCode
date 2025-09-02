@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/m-h-d-salih/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/m-h-d-salih/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -224,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/m-h-d-salih/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/1848-sum-of-unique-elements) |
