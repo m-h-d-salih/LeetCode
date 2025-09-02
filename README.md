@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/m-h-d-salih/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0344-reverse-string) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/m-h-d-salih/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/m-h-d-salih/LeetCode/tree/master/0504-base-7) |
