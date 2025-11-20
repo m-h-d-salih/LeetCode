@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/m-h-d-salih/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/m-h-d-salih/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/m-h-d-salih/LeetCode/tree/master/1448-maximum-69-number) |
+| [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Counting
 |  |
 | ------- |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/m-h-d-salih/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+| [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Segment Tree
 |  |
 | ------- |
