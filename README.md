@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/m-h-d-salih/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [4107-find-missing-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/m-h-d-salih/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [4107-find-missing-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/m-h-d-salih/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [4107-find-missing-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4107-find-missing-elements) |
 | [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Binary Search
 |  |
