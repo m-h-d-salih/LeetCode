@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/m-h-d-salih/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/m-h-d-salih/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1534-count-good-triplets](https://github.com/m-h-d-salih/LeetCode/tree/master/1534-count-good-triplets) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/m-h-d-salih/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/m-h-d-salih/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/m-h-d-salih/LeetCode/tree/master/1534-count-good-triplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/m-h-d-salih/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [4112-maximize-expression-of-three-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/4112-maximize-expression-of-three-elements) |
 ## Segment Tree
