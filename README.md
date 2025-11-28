@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/m-h-d-salih/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/m-h-d-salih/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/m-h-d-salih/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/0118-pascals-triangle) |
 ## Database
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/m-h-d-salih/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
