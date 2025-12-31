@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/m-h-d-salih/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/m-h-d-salih/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/m-h-d-salih/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/m-h-d-salih/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2886-faulty-keyboard](https://github.com/m-h-d-salih/LeetCode/tree/master/2886-faulty-keyboard) |
 | [3533-snake-in-matrix](https://github.com/m-h-d-salih/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/m-h-d-salih/LeetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3790-fruits-into-baskets-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
