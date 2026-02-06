@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/m-h-d-salih/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/m-h-d-salih/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/m-h-d-salih/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/m-h-d-salih/LeetCode/tree/master/0504-base-7) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/m-h-d-salih/LeetCode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/m-h-d-salih/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/m-h-d-salih/LeetCode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/m-h-d-salih/LeetCode/tree/master/0461-hamming-distance) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/m-h-d-salih/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
