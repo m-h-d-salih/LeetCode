@@ -12,12 +12,12 @@ var removeDuplicates = function(s,k) {
        stack.push({char:i,count:1})
            continue;
        }
-               if(i!==stack[stack.length-1].char){
+        if(i!==stack[stack.length-1].char){
          stack.push({char:i,count:1})
         }
-       else if(i===stack[stack.length-1].char){
+        else if(i===stack[stack.length-1].char){
            stack[stack.length-1].count++;
-         if(stack[stack.length-1].count===k)
+        if(stack[stack.length-1].count===k)
             stack.pop();
        }
    }
