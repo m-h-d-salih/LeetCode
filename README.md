@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/m-h-d-salih/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2785-sort-vowels-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/m-h-d-salih/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/m-h-d-salih/LeetCode/tree/master/2825-minimize-string-length) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/m-h-d-salih/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2502-sort-the-people](https://github.com/m-h-d-salih/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/m-h-d-salih/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2785-sort-vowels-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/2785-sort-vowels-in-a-string) |
 | [2836-neither-minimum-nor-maximum](https://github.com/m-h-d-salih/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3321-type-of-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/3321-type-of-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/m-h-d-salih/LeetCode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
