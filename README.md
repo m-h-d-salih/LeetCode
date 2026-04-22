@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/m-h-d-salih/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/m-h-d-salih/LeetCode/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/m-h-d-salih/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/m-h-d-salih/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
