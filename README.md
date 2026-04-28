@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/m-h-d-salih/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0812-rotate-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/m-h-d-salih/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/m-h-d-salih/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -384,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/3227-vowels-game-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
