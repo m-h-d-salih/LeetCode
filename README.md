@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/m-h-d-salih/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/m-h-d-salih/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/m-h-d-salih/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m-h-d-salih/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/m-h-d-salih/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/m-h-d-salih/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
