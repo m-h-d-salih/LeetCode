@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/m-h-d-salih/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/m-h-d-salih/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/m-h-d-salih/LeetCode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/m-h-d-salih/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/m-h-d-salih/LeetCode/tree/master/0724-find-pivot-index) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/m-h-d-salih/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
