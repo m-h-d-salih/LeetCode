@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/m-h-d-salih/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/m-h-d-salih/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/m-h-d-salih/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/m-h-d-salih/LeetCode/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/m-h-d-salih/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/m-h-d-salih/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/m-h-d-salih/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/m-h-d-salih/LeetCode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/m-h-d-salih/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/m-h-d-salih/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/m-h-d-salih/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
