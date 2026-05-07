@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/m-h-d-salih/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/m-h-d-salih/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/m-h-d-salih/LeetCode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/m-h-d-salih/LeetCode/tree/master/0739-daily-temperatures) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/m-h-d-salih/LeetCode/tree/master/0979-di-string-match) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/m-h-d-salih/LeetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/m-h-d-salih/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/m-h-d-salih/LeetCode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/m-h-d-salih/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/m-h-d-salih/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/m-h-d-salih/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
