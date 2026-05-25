@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/m-h-d-salih/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0680-valid-palindrome-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/m-h-d-salih/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/m-h-d-salih/LeetCode/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/m-h-d-salih/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/m-h-d-salih/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/m-h-d-salih/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/m-h-d-salih/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/m-h-d-salih/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m-h-d-salih/LeetCode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/m-h-d-salih/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/m-h-d-salih/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [0896-monotonic-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0896-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
