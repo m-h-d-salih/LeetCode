@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/m-h-d-salih/LeetCode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/m-h-d-salih/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/m-h-d-salih/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/m-h-d-salih/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/m-h-d-salih/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/m-h-d-salih/LeetCode/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0414-third-maximum-number) |
+| [0455-assign-cookies](https://github.com/m-h-d-salih/LeetCode/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/m-h-d-salih/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/m-h-d-salih/LeetCode/tree/master/0260-single-number-iii) |
 | [0414-third-maximum-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/m-h-d-salih/LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/m-h-d-salih/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/m-h-d-salih/LeetCode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/m-h-d-salih/LeetCode/tree/master/0682-baseball-game) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/m-h-d-salih/LeetCode/tree/master/0409-longest-palindrome) |
+| [0455-assign-cookies](https://github.com/m-h-d-salih/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/m-h-d-salih/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/m-h-d-salih/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/m-h-d-salih/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
