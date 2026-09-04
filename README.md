@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/m-h-d-salih/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/m-h-d-salih/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/m-h-d-salih/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/m-h-d-salih/LeetCode/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/m-h-d-salih/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/m-h-d-salih/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/m-h-d-salih/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/m-h-d-salih/LeetCode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/m-h-d-salih/LeetCode/tree/master/0506-relative-ranks) |
+| [0645-set-mismatch](https://github.com/m-h-d-salih/LeetCode/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/m-h-d-salih/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/m-h-d-salih/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1122-relative-sort-array](https://github.com/m-h-d-salih/LeetCode/tree/master/1122-relative-sort-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/m-h-d-salih/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/m-h-d-salih/LeetCode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/m-h-d-salih/LeetCode/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/m-h-d-salih/LeetCode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/m-h-d-salih/LeetCode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/m-h-d-salih/LeetCode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/m-h-d-salih/LeetCode/tree/master/0739-daily-temperatures) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/m-h-d-salih/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/m-h-d-salih/LeetCode/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/m-h-d-salih/LeetCode/tree/master/0461-hamming-distance) |
+| [0645-set-mismatch](https://github.com/m-h-d-salih/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/m-h-d-salih/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/m-h-d-salih/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/m-h-d-salih/LeetCode/tree/master/2159-two-out-of-three) |
